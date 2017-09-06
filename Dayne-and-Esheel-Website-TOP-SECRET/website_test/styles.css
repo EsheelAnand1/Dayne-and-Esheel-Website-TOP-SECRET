@@ -64,7 +64,7 @@
 .page {
     height: auto;
     width: 1024px;
-    background: whitewhite;
+    background: white;
     display: block;
     position: absolute;
     top: auto;
@@ -73,7 +73,20 @@
     margin-top: auto;
     margin-left: -512px;
 }
-
+.Content
+{
+    height: 1092;
+    width: 1024px;
+    background: red;
+    display: block;
+    position: absolute;
+    top: 50px;
+    bottom: auto;
+    left: 50%;
+    right: 50%;
+    margin-top: auto;
+    margin-left: -512px;
+}
 
 /* Pornstars Dropdown */
 
